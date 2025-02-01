@@ -1,0 +1,7 @@
+PyMuPDF
+pdfplumber
+Pillow
+numpy
+torch
+opencv-python
+groq
